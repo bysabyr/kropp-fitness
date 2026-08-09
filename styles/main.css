@@ -4,6 +4,7 @@
 @import 'base/globals.css';
 
 @import 'utilities/utils.css';
+@import 'utilities/typography.css';
 
 @import 'components/button.css';
 
