@@ -17,6 +17,13 @@ svg * {
   transition-duration: var(--transition-duration);
 }
 
+a,
+button {
+  &:active {
+    scale: 0.95;
+  }
+}
+
 a {
   color: var(--color-light);
 
