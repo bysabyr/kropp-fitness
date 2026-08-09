@@ -5,6 +5,7 @@
 
 @import 'utilities/utils.css';
 @import 'utilities/typography.css';
+@import 'utilities/backdrop-title.css';
 
 @import 'components/button.css';
 
